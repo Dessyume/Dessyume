@@ -1,6 +1,6 @@
 <div align="center">
 	<img
-		src="https://codeberg.org/Dessyume/.profile/raw/branch/main/Banner.png"
+		src="https://codeberg.org/Dessyume/.profile/raw/branch/main/Banner.jpg"
 	/>
-	<sub>I want to see a meteor shower.</sub>
+	<sub>The power of fluffy boys shines within you.</sub>
 </div>
